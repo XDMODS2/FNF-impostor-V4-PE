@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"finale",
+			"suspussy",
+			[
+				226,
+				73,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "uwuuwuw",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		58,
+		27,
+		79
+	],
+	"hideStoryMode": true,
+	"weekBefore": "negrosputos",
+	"startUnlocked": true
+}

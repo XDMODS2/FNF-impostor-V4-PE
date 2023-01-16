@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"delusion",
+			"gray",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"blackout",
+			"gray",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"neurotic",
+			"gray",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "grey",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

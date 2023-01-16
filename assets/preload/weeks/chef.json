@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["sauces-moogus", "chef", [199, 94, 82]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "cosinha",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "...",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

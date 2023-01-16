@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Mando", "yellow", [255, 51, 51]],
+		["Dlow", "yellow", [255, 51, 51]],
+        ["Oversight", "white", [255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "yellow",
+
+	"storyName": "Airship Atrocities",
+	"weekBefore": "",
+    "difficulties": "hard",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

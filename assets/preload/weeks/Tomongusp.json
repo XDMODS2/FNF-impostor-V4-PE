@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Sussy Bussy", "tomongus", [255, 51, 51]],
+		["Rivals", "tomongus", [255, 51, 51]],
+		["Chewmate", "hamster", [255, 51, 51]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "tomongusp",
+
+	"storyName": "Rousey Rival",
+	"weekBefore": "",
+	"weekName": "Tomongus",
+	"startUnlocked": true,
+	"difficulties": "hard",
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
