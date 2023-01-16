@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="defeat.png">
+	
+	
+	<SubTexture name="defeat0000" x="0" y="0" width="548" height="325" />
+	<SubTexture name="defeat0001" x="555" y="0" width="548" height="325" />
+	<SubTexture name="defeat0002" x="1111" y="0" width="548" height="325" />
+	<SubTexture name="defeat0003" x="0" y="332" width="548" height="325" />
+	<SubTexture name="defeat0004" x="555" y="332" width="548" height="325" />
+	<SubTexture name="defeat0005" x="1111" y="332" width="548" height="325" />
+	<SubTexture name="defeat0006" x="0" y="665" width="548" height="325" />
+	<SubTexture name="defeat0007" x="555" y="665" width="548" height="325" />
+	<SubTexture name="defeat0008" x="1111" y="665" width="548" height="325" />
+	<SubTexture name="defeat0009" x="0" y="997" width="548" height="325" />
+	<SubTexture name="defeat0010" x="555" y="997" width="548" height="325" />
+	<SubTexture name="defeat0011" x="1111" y="997" width="548" height="325" />
+	<SubTexture name="defeat0012" x="0" y="1330" width="548" height="325" />
+	<SubTexture name="defeat0013" x="555" y="1330" width="548" height="325" />
+	<SubTexture name="defeat0014" x="1111" y="1330" width="548" height="325" />
+</TextureAtlas>
