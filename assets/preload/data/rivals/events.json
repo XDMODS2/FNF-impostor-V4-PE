@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "school",
+		"player1": "bf-pixel",
+		"player2": "tomongus",
+		"player3": null,
+		"events": [
+			[
+				12888.8888888889,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1.8"
+					]
+				]
+			],
+			[
+				14666.6666666667,
+				[
+					[
+						"Cam Boom Speed",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1.8"
+					]
+				]
+			],
+			[
+				114888.888888889,
+				[
+					[
+						"Flash Camera",
+						"0.3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Rivals"
+	}
+}
