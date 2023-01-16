@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "school",
+		"player1": "bfsus-pixel",
+		"player2": "hamster",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1.12"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 80,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Chewmate"
+	}
+}
