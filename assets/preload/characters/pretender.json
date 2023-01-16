@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				26
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "P Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				28
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "P Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "P Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				20
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "P Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sexo",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "pene"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "P Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pretender",
+	"position": [
+		-870,
+		-310
+	],
+	"healthicon": "pink",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		100,
+		204
+	],
+	"camera_position": [
+		150,
+		290
+	],
+	"sing_duration": 10,
+	"scale": 1.3
+}

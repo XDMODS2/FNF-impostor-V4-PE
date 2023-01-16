@@ -3,142 +3,142 @@
 		{
 			"loop": false,
 			"offsets": [
-				8,
+				-5,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "BF idle dance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				35,
+				-16
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "left",
+			"name": "BF NOTE LEFT0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				9,
+				-47
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "BF NOTE DOWN0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				-21,
+				-20
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "BF NOTE UP0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				-21,
+				-2
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "right",
+			"name": "BF NOTE RIGHT0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				28,
+				-18
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "missleft",
+			"name": "BF NOTE LEFT MISS",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				13,
+				-40
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "missdown",
+			"name": "BF NOTE DOWN MISS",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				-18,
+				-12
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "missup",
+			"name": "BF NOTE UP MISS",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				-15,
+				-2
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "missright",
+			"name": "BF NOTE RIGHT MISS",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				8,
-				0
+				-12,
+				-5
 			],
-			"anim": "hey",
+			"anim": "singUP-alt",
 			"fps": 24,
-			"name": "hey",
+			"name": "BF NOTE UP VIBRATO",
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				8,
-				0
+				17,
+				-45
 			],
-			"anim": "scared",
+			"anim": "singDOWN-alt",
 			"fps": 24,
-			"name": "scared",
+			"name": "BF NOTE DOWN VIBRATO",
 			"indices": []
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"no_antialiasing": false,
+	"image": "characters/bfsauce",
 	"position": [
-		-5,
-		375
+		0,
+		220
 	],
-	"healthicon": "bf-pixel",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		123,
-		214,
-		246
+		49,
+		176,
+		209
 	],
 	"camera_position": [
-		180,
-		-140
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }
