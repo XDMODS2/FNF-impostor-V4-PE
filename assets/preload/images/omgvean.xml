@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omgvean.png">
+<SubTexture name=" q0000" x="738" y="0" width="741" height="219" frameX="-16" frameY="-25" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0001" x="738" y="219" width="740" height="219" frameX="-16" frameY="-23" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0002" x="0" y="878" width="738" height="217" frameX="-17" frameY="-20" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0003" x="0" y="660" width="737" height="218" frameX="-19" frameY="-16" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0004" x="737" y="660" width="738" height="218" frameX="-18" frameY="-16" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0005" x="0" y="441" width="737" height="219" frameX="-19" frameY="-16" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0006" x="0" y="221" width="737" height="220" frameX="-19" frameY="-16" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0007" x="0" y="0" width="738" height="221" frameX="-19" frameY="-15" frameWidth="767" frameHeight="250" />
+<SubTexture name=" q0008" x="737" y="441" width="735" height="219" frameX="-21" frameY="-15" frameWidth="767" frameHeight="250" />
+</TextureAtlas>
