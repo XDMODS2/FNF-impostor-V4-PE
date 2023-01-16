@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-blackFinale.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<!-- :v -->
+
+	<SubTexture name="uwu0000" x="0" y="167" width="140" height="81"/>
+	<SubTexture name="uwu0001" x="0" y="167" width="140" height="81"/>
+<!-- END -->
+
+</TextureAtlas>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-blackFinale.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+<!-- >:v -->
+
+	<SubTexture name="owo0000" x="0" y="0" width="435" height="495"/>
+	<SubTexture name="owo0001" x="445" y="0" width="435" height="495"/>
+	<SubTexture name="owo0002" x="890" y="0" width="435" height="495"/>
+	<SubTexture name="owo0003" x="1335" y="0" width="435" height="495"/>
+	<SubTexture name="owo0004" x="0" y="505" width="435" height="495"/>
+	<SubTexture name="owo0005" x="445" y="505" width="435" height="495"/>
+	<SubTexture name="owo0006" x="890" y="505" width="435" height="495"/>
+	<SubTexture name="owo0007" x="1335" y="505" width="435" height="495"/>
+	<SubTexture name="owo0008" x="0" y="1010" width="435" height="495"/>
+	<SubTexture name="owo0009" x="445" y="1010" width="435" height="495"/>
+
+<!-- :v -->
+
+	<SubTexture name="uwu0000" x="890" y="1010" width="435" height="452"/>
+	<SubTexture name="uwu0001" x="890" y="1010" width="435" height="452"/>
+	<SubTexture name="uwu0002" x="1335" y="1010" width="435" height="452"/>
+	<SubTexture name="uwu0003" x="1335" y="1010" width="435" height="452"/>
+	<SubTexture name="uwu0004" x="890" y="1472" width="435" height="452"/>
+	<SubTexture name="uwu0005" x="890" y="1472" width="435" height="452"/>
+	<SubTexture name="uwu0006" x="1335" y="1472" width="435" height="452"/>
+	<SubTexture name="uwu0007" x="1335" y="1472" width="435" height="452"/>
+	<SubTexture name="uwu0008" x="0" y="1515" width="435" height="452"/>
+	<SubTexture name="uwu0009" x="0" y="1515" width="435" height="452"/>
+
+<!-- END -->
+
+</TextureAtlas>
