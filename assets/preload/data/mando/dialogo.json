@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "BF uwu",
+			"text": "BOM DIA"
+		},
+		{
+			"sound": "",
+			"speed": 0.245,
+			"portrait": "yellow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "......."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "BF neutra",
+			"text": "A"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Voce estar morto"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boyfriend",
+			"boxState": "normal",
+			"expression": "BF q",
+			"text": "Bora uma Batalha de rap"
+		}
+	]
+}
