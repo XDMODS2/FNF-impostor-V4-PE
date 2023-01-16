@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF.png">
+<SubTexture name=" NOTE DOWN0000" x="539" y="1211" width="265" height="186" frameX="-8" frameY="-11" frameWidth="285" frameHeight="205" />
+<SubTexture name=" NOTE DOWN0001" x="0" y="1211" width="269" height="188" frameX="-8" frameY="-8" frameWidth="285" frameHeight="205" />
+<SubTexture name=" NOTE DOWN0002" x="990" y="991" width="269" height="189" frameX="-8" frameY="-8" frameWidth="285" frameHeight="205" />
+<SubTexture name=" NOTE DOWN0003" x="269" y="1211" width="270" height="188" frameX="-8" frameY="-8" frameWidth="285" frameHeight="205" />
+<SubTexture name=" NOTE LEFT0000" x="0" y="991" width="246" height="220" frameX="-9" frameY="-11" frameWidth="267" frameHeight="242" />
+<SubTexture name=" NOTE LEFT0001" x="458" y="266" width="236" height="226" frameX="-15" frameY="-11" frameWidth="267" frameHeight="242" />
+<SubTexture name=" NOTE LEFT0002" x="745" y="762" width="238" height="225" frameX="-15" frameY="-11" frameWidth="267" frameHeight="242" />
+<SubTexture name=" NOTE LEFT0003" x="251" y="762" width="238" height="226" frameX="-15" frameY="-11" frameWidth="267" frameHeight="242" />
+<SubTexture name=" NOTE RIGHT0000" x="1195" y="225" width="248" height="222" frameX="-11" frameY="-14" frameWidth="269" frameHeight="242" />
+<SubTexture name=" NOTE RIGHT0001" x="1195" y="447" width="248" height="222" frameX="-10" frameY="-14" frameWidth="269" frameHeight="242" />
+<SubTexture name=" NOTE RIGHT0002" x="246" y="991" width="248" height="220" frameX="-8" frameY="-13" frameWidth="269" frameHeight="242" />
+<SubTexture name=" NOTE RIGHT0003" x="494" y="991" width="248" height="219" frameX="-8" frameY="-14" frameWidth="269" frameHeight="242" />
+<SubTexture name=" NOTE RIGHT0004" x="742" y="991" width="248" height="219" frameX="-8" frameY="-14" frameWidth="269" frameHeight="242" />
+<SubTexture name=" NOTE UP0000" x="232" y="266" width="226" height="264" frameX="-13" frameY="-8" frameWidth="253" frameHeight="282" />
+<SubTexture name=" NOTE UP0001" x="464" y="0" width="232" height="265" frameX="-9" frameY="-11" frameWidth="253" frameHeight="282" />
+<SubTexture name=" NOTE UP0002" x="0" y="266" width="232" height="265" frameX="-9" frameY="-11" frameWidth="253" frameHeight="282" />
+<SubTexture name=" NOTE UP0003" x="0" y="0" width="232" height="266" frameX="-10" frameY="-10" frameWidth="253" frameHeight="282" />
+<SubTexture name=" NOTE UP0004" x="232" y="0" width="232" height="266" frameX="-9" frameY="-10" frameWidth="253" frameHeight="282" />
+<SubTexture name=" idle dance0000" x="1195" y="669" width="254" height="221" frameX="-9" frameY="-19" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0001" x="489" y="762" width="256" height="226" frameX="-7" frameY="-21" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0002" x="1195" y="0" width="254" height="225" frameX="-8" frameY="-16" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0003" x="0" y="762" width="251" height="229" frameX="-13" frameY="-4" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0004" x="696" y="0" width="249" height="231" frameX="-14" frameY="-2" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0005" x="696" y="231" width="249" height="231" frameX="-14" frameY="-2" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0006" x="0" y="531" width="249" height="231" frameX="-15" frameY="-3" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0007" x="249" y="531" width="249" height="231" frameX="-14" frameY="-4" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0008" x="945" y="231" width="250" height="230" frameX="-14" frameY="-7" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0009" x="498" y="531" width="249" height="231" frameX="-15" frameY="-7" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0010" x="945" y="461" width="249" height="230" frameX="-14" frameY="-8" frameWidth="276" frameHeight="260" />
+<SubTexture name=" idle dance0011" x="945" y="0" width="250" height="231" frameX="-14" frameY="-8" frameWidth="276" frameHeight="260" />
+</TextureAtlas>
